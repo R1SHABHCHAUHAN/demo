@@ -1,2 +1,2 @@
 # demo
-This is for testing this option
+This is for testing this option.
