@@ -15,3 +15,5 @@ This command is used after the coding to update the file
 This command is to use the track the status of the all files you have
 
 # git commit -m ""<!--Comment (you've done after the saaving of that file)-->
+
+# git push origin main
